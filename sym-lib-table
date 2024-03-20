@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LED_CREE_CV94D")(type "KiCad")(uri "${KIPRJMOD}/LED_CREE_CV94D.kicad_sym")(options "")(descr ""))
+)
